@@ -76,8 +76,8 @@ My goal is to write code that feels light to maintain and powerful to run.
 </p>
 
 <p align="center">
-  <img width=47.8%" src="https://github-readme-stats-one-bice.vercel.app/api?username=anttonio-dent&show_icons=true&theme=dracula&hide_border=true&order=1%20commits=true&count_private=true&number_format=long&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="520px" alt="stats graph" />
-  <img width="50.2%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=anttonio-dent&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" />
+  <img width=55.4%" src="https://github-readme-stats-one-bice.vercel.app/api?username=anttonio-dent&show_icons=true&theme=dracula&hide_border=true&order=1%20commits=true&count_private=true&number_format=long&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" width="520px" alt="stats graph" />
+  <img width="42.6%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs?username=anttonio-dent&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=30&theme=dracula&hide_border=true&order=2" width="520px" alt="languages graph" />
 </p>
 
 ---
